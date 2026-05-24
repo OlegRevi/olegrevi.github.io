@@ -1,6 +1,7 @@
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
-
+title: Un-Hooked
+description: They are creating traps, based on the book: Hooked: How to Build Habit-Forming Products. Let get us Un-Hooked together! 
 on:
   # Runs on pushes targeting the default branch
   push:
